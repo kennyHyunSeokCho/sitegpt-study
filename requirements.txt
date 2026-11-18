@@ -1,0 +1,11 @@
+aiohttp==3.8.5
+beautifulsoup4==4.12.2
+faiss-cpu==1.7.4
+html2text==2020.1.16
+langchain==0.0.332
+lxml==4.9.3
+numpy==1.25.2
+openai==0.28.0
+streamlit==1.27.2
+tiktoken==0.5.1
+
